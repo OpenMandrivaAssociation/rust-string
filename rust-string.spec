@@ -5,8 +5,8 @@
 %global crate string
 
 Name:           rust-%{crate}
-Version:        0.2.1
-Release:        3%{?dist}
+Version:        0.3.1
+Release:        1%{?dist}
 Summary:        UTF-8 encoded string with configurable byte storage
 
 # Upstream license specification: MIT
